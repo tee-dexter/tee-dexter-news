@@ -18,8 +18,5 @@ $(document).ready(function(){
 
             $('.read').html('next news')
         })
-
-        // console.log(data)
-        // console.log(quotes[0])
     })
 })
