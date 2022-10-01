@@ -1,0 +1,16 @@
+.quoteBody {
+    font-size: 33px !important ;
+    color: rgb(108, 203, 226) !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.quoteAuthor {
+    font-size: 28px;
+}
+
+.btn {
+    border-radius: 6px;
+}
+.btn :focus {
+    outline:none
+}
